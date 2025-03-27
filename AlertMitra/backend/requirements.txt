@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+psycopg2
+python-dotenv
+openai
+telebot
+supabase
+aws-lambda-powertools
+boto3
